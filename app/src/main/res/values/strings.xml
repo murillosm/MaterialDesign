@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">User Interface</string>
+    <string name="digite_aqui_seu_login">Digite aqui seu login</string>
+    <string name="digite_sua_senha">Digite sua senha</string>
+    <string name="user">USER</string>
+    <string name="entrar">Entrar</string>
+    <string name="salvar_senha">Salvar Senha</string>
+    <string name="close">CLOSE</string>
+    <string name="title_activity_debug">DebugActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_calendario">CalendarioActivity</string>
+    <string name="title_activity_bem_vindo_acivity">BemVindoAcivity</string>
+    <string name="textview">TextView</string>
+    <string name="tela_2">TELA 2</string>
+    <string name="tela_3">TELA 3</string>
+    <string name="tela_4">TELA 4</string>
+    <string name="tela_1">TELA 1</string>
+    <string name="sair">SAIR</string>
+    <string name="primeira_tela">Primeira Tela</string>
+    <string name="segunda_tela" translatable="false">Segunda Tela</string>
+    <string name="terceira_tela" translatable="false">Terceira Tela</string>
+    <string name="quarta_tela" translatable="false">Quarta Tela</string>
+</resources>
